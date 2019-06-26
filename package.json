@@ -1,0 +1,17 @@
+{
+  "name": "bootcamp-desafio-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:CleitonSilvaR/bootcamp-desafio-01.git",
+  "author": "Cleiton Silva <cleiton_.98@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "scripts": {
+    "dev": "nodemon index.js"
+  }
+}
